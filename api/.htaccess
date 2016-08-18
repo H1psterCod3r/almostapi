@@ -1,4 +1,0 @@
-AuthUserFile /opt/apache2/access/htpasswd 
-AuthName "API Admin Password Please"
-AuthType Basic
-Require valid-user
